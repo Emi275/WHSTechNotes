@@ -1,1 +1,1 @@
-# WHTechNotes
+# WHSTechNotes
