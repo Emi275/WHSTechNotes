@@ -6,3 +6,13 @@ Example entry
 My journal making process reflection: the process was nice and simple had no difficulty on my part hs whitby did an amazing job explaining and i was able to mak emy journal no problem 
 # September 17, 2024 
 This is a free week
+# September 20, 2024 
+This is a free week 
+# September 24, 2024 
+Accuracy measures how close results are to the true or known value, then the code just might not work at all until changes are fixed, because building up your attention span early during your coding journey can help you out a lot due to there being so many things ther are to do with coding like the thing itself. 
+# September 25, 2024
+same thing as sep 24
+# September 26, 2024 
+Same thing as sep 24 
+# September 27, 2024 
+Accuracy measures how close results are to the true or known value, then the code just might not work at all until changes are fixed, because building up your attention span early during your coding journey can help you out a lot due to there being so many things ther are to do with coding like the thing itself.
