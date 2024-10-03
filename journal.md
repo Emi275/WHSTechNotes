@@ -18,3 +18,9 @@ Same thing as sep 24
 Accuracy measures how close results are to the true or known value, then the code just might not work at all until changes are fixed, because building up your attention span early during your coding journey can help you out a lot due to there being so many things ther are to do with coding like the thing itself.
 # September 30, 2024
 computer sience plays a big role in my life for example the games or computer games i play alot and put a lot of time into, things like steam and the games i use on there program/website even epicgames etc, without these things if they would let say dissapear out of no where tomorrow i dont know what id do id probably go crazy out of pure boredom.
+# October 1, 2024 
+computer sience plays a big role in my life for example the games or computer games i play alot and put a lot of time into, things like steam and the games i use on there program/website even epicgames etc, without these things if they would let say dissapear out of no where tomorrow i dont know what id do id probably go crazy out of pure boredom.
+# October 2, 2024
+same thing as oct 1 
+# October 3, 2024 
+same as oct 2
