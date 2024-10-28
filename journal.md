@@ -24,3 +24,29 @@ computer sience plays a big role in my life for example the games or computer ga
 same thing as oct 1 
 # October 3, 2024 
 same as oct 2
+# October 7, 2024 
+Accountant, prepare and examine financial records, identify potential areas of opportunity and risk, and provide solutions for businesses and individuals, proficiency in using accounting software programs and financial reporting, planning and controls,  bachelor's degree in accounting or finance, The U.S. Bureau of Labor Statistics (BLS) projects employment of accountants and auditors to grow 4% from 2022 to 2032. 
+# October 8, 2024 
+# October 9, 2024 
+# October 10, 2024 
+# October 15, 2024 
+Coding teaches you to think logically, oding skills have become valuable across various industries. While it's beneficial for tech-related careers, coding enhances problem-solving, logical thinking, and creativity, which are applicable in diverse fields like finance, healthcare, and even the arts, encourages children to break down complex problems and find innovative solutions, fostering creative problem-solving abilities. 
+# October 16, 2024 
+Create a poster 
+# October 17, 2024 
+Prepare to present 
+# October 18, 2024 
+Khan Academy 
+# October 21, 2024
+Analyzing vast amounts of data to identify patterns, automate repetitive tasks, provide personalized insights, and enable predictive modeling, job automation where AI could replace human workers in certain industries, bias in algorithms which can perpetuate societal inequalities due to biased training data, cybersecurity threats like data breaches, data poisoning, and adversarial attacks where malicious actors manipulate AI systems to produce incorrect results 
+# October 22, 2024 
+Introduction too zumi 
+# October 23, 2024 
+Finish lessons 1.2 1.1 
+# October 24, 2024 
+Finish zumi 1.3 
+# October 25, 2024  
+Finish zumi 1.4 
+# October 28, 2024 
+There are many things that computer science does or can do during this election season, for example voter registration and accessiblity, election security, data analytics, voting methods, election monotoring, and information dissemination, overall, tech is very handy these days but it also introduces new challenges that reqire careful managment. 
+
