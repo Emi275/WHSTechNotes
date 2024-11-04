@@ -49,4 +49,11 @@ Finish zumi 1.3
 Finish zumi 1.4 
 # October 28, 2024 
 There are many things that computer science does or can do during this election season, for example voter registration and accessiblity, election security, data analytics, voting methods, election monotoring, and information dissemination, overall, tech is very handy these days but it also introduces new challenges that reqire careful managment. 
-
+# October 30, 2024
+Zumi Robo Cars 
+# October 31, 2024 
+Python fundementals test-1 
+# November 1, 2024 
+Make-up missing journal work 
+# November 4, 2024 
+if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms, use strong, unique passwords, enable two-factor authentication, no ive never shared a next level of personal thinngs online i like to keep my personal life away from the internet but if its friends that ive known for a long time and where just talking then yeah im fine with it, to be honest it really just depends on the situation, use separate online identities for personal and professional use, leverage privacy settings on collaboration platforms, share only necessary information, utilize encryption for sensitive data. 
