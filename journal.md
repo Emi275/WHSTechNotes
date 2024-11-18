@@ -57,3 +57,17 @@ Python fundementals test-1
 Make-up missing journal work 
 # November 4, 2024 
 if sensitive data falls into the wrong hands, it can lead to fraud, identity theft, or similar harms, use strong, unique passwords, enable two-factor authentication, no ive never shared a next level of personal thinngs online i like to keep my personal life away from the internet but if its friends that ive known for a long time and where just talking then yeah im fine with it, to be honest it really just depends on the situation, use separate online identities for personal and professional use, leverage privacy settings on collaboration platforms, share only necessary information, utilize encryption for sensitive data. 
+# November 6, 2024 
+Teacher is out 
+# November 7, 2024 
+Zumi Robots 
+# November 8, 2024 
+Double check journal entre 
+# November 12, 2024
+The recent incident where a major online retailer mistakenly listed a high-end product at a significantly discounted price, leading to a surge of orders before the error was corrected,  providing tools for better prediction, early warning systems, efficient resource allocation, and coordinated response mechanisms, allowing for proactive mitigation strategies instead of solely reactive responses to crises.
+# November 13, 2024 
+zumi cars 
+# November 14, 2024 
+Zumi Cars 
+# November 18, 2024 
+precision agriculture with sensors and drones allows farmers to optimize water usage and harvest yields, while online grocery delivery platforms enable convenient access to a wide variety of food items at competitive prices, even in remote areas.
